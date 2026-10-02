@@ -1,0 +1,6 @@
+{
+  "name": "MediClaim OCR - Medical Cost Submission",
+  "description": "Upload medical receipts, extract employee details, clinic name, totals, and illness summary via AI OCR, and export records to Excel (.xlsx).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
